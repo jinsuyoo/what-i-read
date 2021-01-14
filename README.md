@@ -14,6 +14,8 @@
 
 [ECCV 2018] Videos as Space-Time Region Graphs, Wang and Gupta \
 [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolong_Wang_Videos_as_Space-Time_ECCV_2018_paper.pdf)
+- Represented (ojects in the) videos as spatial-temporal graph.
+- Used GCN for reasoning among the nodes.
 
 [AAAI 2018] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition, Yan et al. \
 [paper](https://arxiv.org/pdf/1801.07455.pdf) | [code](https://github.com/open-mmlab/mmskeleton)
