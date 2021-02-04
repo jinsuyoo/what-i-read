@@ -2,6 +2,16 @@
 
 ## 2021
 
+### February
+
+#### About Graph Neural Network
+
+[IJCAI 2020] G2RL: Geometry-Guided Representation Learning for Facial Action Unit Intensity Estimation, Fan and Lin \
+[paper](https://www.ijcai.org/Proceedings/2020/0102.pdf)
+- Incorporated additional facial landmark detection to facial AU intensity estimation task.
+- Exploited GCN for facial landmark detection.
+- Each node: 2D coordinates of the landmarks. 
+
 ### January
 
 #### About Graph Neural Network
