@@ -4,6 +4,13 @@
 
 ### February
 
+#### About Face SR
+
+[AAAI 2020] Joint Super-Resolution and Alignment of Tiny Faces, Yin et al. \
+[paper](https://arxiv.org/pdf/1911.08566.pdf) | [code](https://github.com/YuYin1/JASRNet)
+- Jointly train sr network and facial landmark detection network. (multi-task learning: face sr + face alignment)
+- Two tasks share encoder and separate decoder.
+
 #### About Graph Neural Network
 
 [IJCAI 2020] G2RL: Geometry-Guided Representation Learning for Facial Action Unit Intensity Estimation, Fan and Lin \
